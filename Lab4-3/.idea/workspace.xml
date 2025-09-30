@@ -4,44 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa39a7b2-e0b4-46d4-90b1-04dc2966a9c8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab3-4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3-4/Main.class" afterDir="false" />
+    <list default="true" id="b7ef058a-be02-4a47-82a5-03c3b549d78b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DayDiary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MonthDiary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3-4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3-4/out/production/Lab3-4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3-4/out/production/Lab3-4/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="339691mM1wMzkBIkmnZIQmK4BKv" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="33Q388sSR8eIyybzV9PnAjziqG0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Han/Desktop/Dev/Repo/JPP2025/Lab3-4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Han/Desktop/Dev/JPP/Lab3-4/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "onboarding.tips.debug.path": "C:/Users/Han/Desktop/Dev/Repo/JPP2025/Lab4-3/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,29 +65,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="aa39a7b2-e0b4-46d4-90b1-04dc2966a9c8" name="Changes" comment="" />
-      <created>1758716788979</created>
+      <changelist id="b7ef058a-be02-4a47-82a5-03c3b549d78b" name="Changes" comment="" />
+      <created>1759235308452</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1758716788979</updated>
-      <workItem from="1758716957254" duration="65000" />
-      <workItem from="1758717033579" duration="1723000" />
-      <workItem from="1758718787587" duration="9000" />
-      <workItem from="1759142353438" duration="3464000" />
-      <workItem from="1759147107013" duration="100000" />
-      <workItem from="1759147419396" duration="38000" />
-      <workItem from="1759147605250" duration="32000" />
-      <workItem from="1759147691861" duration="22000" />
-      <workItem from="1759235099660" duration="30000" />
-      <workItem from="1759235268364" duration="40000" />
+      <updated>1759235308452</updated>
+      <workItem from="1759235309728" duration="2220000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
