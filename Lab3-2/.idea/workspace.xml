@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7430bfc8-1943-44e8-8587-cbcdbbeff8c6" name="Changes" comment="" />
+    <list default="true" id="c5df73d7-2202-40b3-b37d-822263badad0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab2-1/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-1/Lab2-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab3-1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-1/out/production/Lab2-1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-1/out/production/Lab2-1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-2/out/production/Lab2-2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-2/out/production/Lab2-2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-3/out/production/Lab2-3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-3/out/production/Lab2-3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3-1/out/production/Lab3-1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3-1/out/production/Lab3-1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3-2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3-2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4-3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4-3/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +37,16 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="3352K0JbYlYMh8wfHnBxWYpD19S" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="33sg5YtQKS98y2rd8GdncWIrBGu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,14 +56,9 @@
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Han/Desktop/Dev/JPP/Lab3-2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -47,20 +68,19 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7430bfc8-1943-44e8-8587-cbcdbbeff8c6" name="Changes" comment="" />
-      <created>1758592546432</created>
+      <changelist id="c5df73d7-2202-40b3-b37d-822263badad0" name="Changes" comment="" />
+      <created>1760111010987</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1758592546432</updated>
-      <workItem from="1758592547826" duration="445000" />
-      <workItem from="1758594046985" duration="1085000" />
+      <updated>1760111010987</updated>
+      <workItem from="1760111012032" duration="26000" />
     </task>
     <servers />
   </component>

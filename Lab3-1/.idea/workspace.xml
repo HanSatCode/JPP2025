@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d502851-753f-413f-9535-adcb9218f375" name="Changes" comment="" />
+    <list default="true" id="3cf81002-d7f1-446d-9931-87ac052159b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab2-1/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-1/Lab2-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2-3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-1/out/production/Lab2-1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-1/out/production/Lab2-1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-2/out/production/Lab2-2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-2/out/production/Lab2-2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-3/out/production/Lab2-3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-3/out/production/Lab2-3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3-1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3-1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4-3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4-3/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +34,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="33505GyrT977RMuDD768DFxPXaa" />
+  <component name="ProjectId" id="33sfy6rTYqkwPgoXoVIOH33kQup" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,35 +51,30 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
-    "Application.main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9d502851-753f-413f-9535-adcb9218f375" name="Changes" comment="" />
-      <created>1758591443593</created>
+      <changelist id="3cf81002-d7f1-446d-9931-87ac052159b2" name="Changes" comment="" />
+      <created>1760110952097</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1758591443593</updated>
-      <workItem from="1758591445341" duration="1091000" />
+      <updated>1760110952097</updated>
+      <workItem from="1760110953311" duration="39000" />
     </task>
     <servers />
   </component>
