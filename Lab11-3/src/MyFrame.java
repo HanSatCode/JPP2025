@@ -65,9 +65,26 @@ public class MyFrame extends JFrame {
                 }
             }
         });
-
+        imageLabel.addMouseListener(new MyMouseListener(0));
         setSize(400,300);
         setVisible(true);
+    }
+
+    private class MyMouseListener extends MouseAdapter {
+        private int index;
+        public MyMouseListener(int startIndex) {
+            index = startIndex;
+        }
+        public void mouseReleased(MouseEvent e) {
+            if (radioPanel.isLeft()) {
+                index = ++index % imageVector.size();
+                imageLabel.setIcon(imageVector.get(index));
+            }
+            else { // 오른쪽 방법
+                if(--index < 0) index = imageVector.size() - 1;
+                imageLabel.setIcon(imageVector.get(index));
+            }
+        }
     }
 
     public static void main(String[] args) {
